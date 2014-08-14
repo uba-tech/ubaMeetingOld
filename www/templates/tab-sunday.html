@@ -1,0 +1,22 @@
+<ion-view title="Sunday">
+
+	<ion-nav-buttons side="left">
+		<button class="button button-icon button-clear ion-navicon" style="color:#fff;" ng-click="showMenu()">
+        </button>
+	</ion-nav-buttons>
+	
+    <ion-content class="has-header">
+    	<!-- <ul class="list">
+    		<li ng-repeat="session in sessions">
+    			<a class="item" href="#/tab/sunday-detail/{{session.id}}">
+	        		{{session.name}}
+	      		</a>
+    		</li>
+    	</ul> -->
+		<ion-list>
+	    	<ion-item ng-repeat="session in sessions" href="#/tab/sunday-detail/{{session.id}}">
+	        	{{session.name}}
+	      	</ion-item>
+	    </ion-list>
+	</ion-content>
+</ion-view>

@@ -1,0 +1,297 @@
+2014-07-23 17:16:46.070 ubaMeeting[15159:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-23 17:16:46.078 ubaMeeting[15159:70b] Unlimited access to network resources
+2014-07-23 17:16:46.101 ubaMeeting[15159:70b] [CDVTimer][keyboard] 0.063002ms
+2014-07-23 17:16:46.101 ubaMeeting[15159:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-23 17:16:46.102 ubaMeeting[15159:70b] [CDVTimer][statusbar] 0.460029ms
+2014-07-23 17:16:46.102 ubaMeeting[15159:70b] [CDVTimer][TotalPluginStartup] 1.478016ms
+2014-07-23 17:16:46.247 ubaMeeting[15159:70b] Resetting plugins due to page load.
+2014-07-23 17:16:47.100 ubaMeeting[15159:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F3534E44-14E9-40BE-ABBA-A4D49F2BCA9C/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 10:34:53.419 ubaMeeting[17372:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 10:34:53.578 ubaMeeting[17372:70b] Unlimited access to network resources
+2014-07-24 10:34:53.595 ubaMeeting[17372:70b] [CDVTimer][keyboard] 0.068009ms
+2014-07-24 10:34:53.596 ubaMeeting[17372:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 10:34:53.596 ubaMeeting[17372:70b] [CDVTimer][statusbar] 0.429034ms
+2014-07-24 10:34:53.596 ubaMeeting[17372:70b] [CDVTimer][TotalPluginStartup] 1.398027ms
+2014-07-24 10:34:53.799 ubaMeeting[17372:70b] Resetting plugins due to page load.
+2014-07-24 10:34:54.046 ubaMeeting[17372:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EBA566E8-4438-4A9E-84FB-09A9AD538ACD/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 11:14:16.660 ubaMeeting[17795:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 11:14:16.705 ubaMeeting[17795:70b] Unlimited access to network resources
+2014-07-24 11:14:16.736 ubaMeeting[17795:70b] [CDVTimer][keyboard] 0.389040ms
+2014-07-24 11:14:16.736 ubaMeeting[17795:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 11:14:16.737 ubaMeeting[17795:70b] [CDVTimer][statusbar] 0.443041ms
+2014-07-24 11:14:16.737 ubaMeeting[17795:70b] [CDVTimer][TotalPluginStartup] 1.799047ms
+2014-07-24 11:14:17.156 ubaMeeting[17795:70b] Resetting plugins due to page load.
+2014-07-24 11:14:17.746 ubaMeeting[17795:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EBA566E8-4438-4A9E-84FB-09A9AD538ACD/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 11:16:50.933 ubaMeeting[18026:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 11:16:50.981 ubaMeeting[18026:70b] Unlimited access to network resources
+2014-07-24 11:16:51.020 ubaMeeting[18026:70b] [CDVTimer][keyboard] 12.941003ms
+2014-07-24 11:16:51.021 ubaMeeting[18026:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 11:16:51.022 ubaMeeting[18026:70b] [CDVTimer][statusbar] 0.720978ms
+2014-07-24 11:16:51.022 ubaMeeting[18026:70b] [CDVTimer][TotalPluginStartup] 15.295982ms
+2014-07-24 11:16:51.192 ubaMeeting[18026:70b] Resetting plugins due to page load.
+2014-07-24 11:16:51.456 ubaMeeting[18026:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/218B7CA4-5D6D-4FD6-B4A4-7AFB76321962/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 11:20:43.371 ubaMeeting[18253:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 11:20:43.398 ubaMeeting[18253:70b] Unlimited access to network resources
+2014-07-24 11:20:43.434 ubaMeeting[18253:70b] [CDVTimer][keyboard] 0.071049ms
+2014-07-24 11:20:43.435 ubaMeeting[18253:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 11:20:43.435 ubaMeeting[18253:70b] [CDVTimer][statusbar] 0.514984ms
+2014-07-24 11:20:43.436 ubaMeeting[18253:70b] [CDVTimer][TotalPluginStartup] 1.619995ms
+2014-07-24 11:20:43.562 ubaMeeting[18253:70b] Resetting plugins due to page load.
+2014-07-24 11:20:44.093 ubaMeeting[18253:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/218B7CA4-5D6D-4FD6-B4A4-7AFB76321962/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 13:42:12.648 ubaMeeting[18579:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 13:42:12.684 ubaMeeting[18579:70b] Unlimited access to network resources
+2014-07-24 13:42:12.724 ubaMeeting[18579:70b] [CDVTimer][keyboard] 0.072002ms
+2014-07-24 13:42:12.724 ubaMeeting[18579:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 13:42:12.725 ubaMeeting[18579:70b] [CDVTimer][statusbar] 0.504017ms
+2014-07-24 13:42:12.725 ubaMeeting[18579:70b] [CDVTimer][TotalPluginStartup] 1.587033ms
+2014-07-24 13:42:13.442 ubaMeeting[18579:70b] Resetting plugins due to page load.
+2014-07-24 13:42:13.789 ubaMeeting[18579:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/218B7CA4-5D6D-4FD6-B4A4-7AFB76321962/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 13:46:09.418 ubaMeeting[18780:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 13:46:09.435 ubaMeeting[18780:70b] Unlimited access to network resources
+2014-07-24 13:46:09.462 ubaMeeting[18780:70b] [CDVTimer][keyboard] 0.070989ms
+2014-07-24 13:46:09.463 ubaMeeting[18780:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 13:46:09.463 ubaMeeting[18780:70b] [CDVTimer][statusbar] 0.548005ms
+2014-07-24 13:46:09.464 ubaMeeting[18780:70b] [CDVTimer][TotalPluginStartup] 1.664996ms
+2014-07-24 13:46:09.652 ubaMeeting[18780:70b] Resetting plugins due to page load.
+2014-07-24 13:46:09.842 ubaMeeting[18780:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/218B7CA4-5D6D-4FD6-B4A4-7AFB76321962/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 13:50:07.416 ubaMeeting[18983:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 13:50:07.424 ubaMeeting[18983:70b] Unlimited access to network resources
+2014-07-24 13:50:07.441 ubaMeeting[18983:70b] [CDVTimer][keyboard] 0.065982ms
+2014-07-24 13:50:07.441 ubaMeeting[18983:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 13:50:07.442 ubaMeeting[18983:70b] [CDVTimer][statusbar] 0.425994ms
+2014-07-24 13:50:07.442 ubaMeeting[18983:70b] [CDVTimer][TotalPluginStartup] 1.424015ms
+2014-07-24 13:50:07.547 ubaMeeting[18983:70b] Resetting plugins due to page load.
+2014-07-24 13:50:07.702 ubaMeeting[18983:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/218B7CA4-5D6D-4FD6-B4A4-7AFB76321962/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 13:51:37.114 ubaMeeting[19206:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 13:51:37.192 ubaMeeting[19206:70b] Unlimited access to network resources
+2014-07-24 13:51:37.333 ubaMeeting[19206:70b] [CDVTimer][keyboard] 31.888008ms
+2014-07-24 13:51:37.334 ubaMeeting[19206:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 13:51:37.335 ubaMeeting[19206:70b] [CDVTimer][statusbar] 0.949025ms
+2014-07-24 13:51:37.335 ubaMeeting[19206:70b] [CDVTimer][TotalPluginStartup] 34.174025ms
+2014-07-24 13:51:37.632 ubaMeeting[19206:70b] Resetting plugins due to page load.
+2014-07-24 13:51:38.091 ubaMeeting[19206:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/372DE506-AD4A-4B69-A6BB-AF1E990DC99E/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 13:57:45.449 ubaMeeting[19570:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 13:57:45.471 ubaMeeting[19570:70b] Unlimited access to network resources
+2014-07-24 13:57:45.509 ubaMeeting[19570:70b] [CDVTimer][keyboard] 0.064969ms
+2014-07-24 13:57:45.509 ubaMeeting[19570:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 13:57:45.510 ubaMeeting[19570:70b] [CDVTimer][statusbar] 0.414014ms
+2014-07-24 13:57:45.510 ubaMeeting[19570:70b] [CDVTimer][TotalPluginStartup] 1.390994ms
+2014-07-24 13:57:45.604 ubaMeeting[19570:70b] Resetting plugins due to page load.
+2014-07-24 13:57:45.803 ubaMeeting[19570:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/372DE506-AD4A-4B69-A6BB-AF1E990DC99E/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 15:34:27.416 ubaMeeting[19860:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 15:34:27.792 ubaMeeting[19860:70b] Unlimited access to network resources
+2014-07-24 15:34:29.399 ubaMeeting[19860:70b] [CDVTimer][keyboard] 11.299014ms
+2014-07-24 15:34:29.400 ubaMeeting[19860:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 15:34:29.401 ubaMeeting[19860:70b] [CDVTimer][statusbar] 0.862002ms
+2014-07-24 15:34:29.401 ubaMeeting[19860:70b] [CDVTimer][TotalPluginStartup] 13.911009ms
+2014-07-24 15:34:29.786 ubaMeeting[19860:70b] Resetting plugins due to page load.
+2014-07-24 15:34:30.976 ubaMeeting[19860:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/372DE506-AD4A-4B69-A6BB-AF1E990DC99E/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 15:36:03.630 ubaMeeting[20082:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 15:36:03.686 ubaMeeting[20082:70b] Unlimited access to network resources
+2014-07-24 15:36:05.662 ubaMeeting[20082:70b] [CDVTimer][keyboard] 13.170004ms
+2014-07-24 15:36:05.663 ubaMeeting[20082:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 15:36:05.664 ubaMeeting[20082:70b] [CDVTimer][statusbar] 0.727952ms
+2014-07-24 15:36:05.665 ubaMeeting[20082:70b] [CDVTimer][TotalPluginStartup] 15.632033ms
+2014-07-24 15:36:06.243 ubaMeeting[20082:70b] Resetting plugins due to page load.
+2014-07-24 15:36:06.768 ubaMeeting[20082:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C7C181A1-9612-4AC0-82E5-8EA8DE5CDC32/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-24 17:13:49.207 ubaMeeting[20482:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-24 17:13:49.552 ubaMeeting[20482:70b] Unlimited access to network resources
+2014-07-24 17:13:52.486 ubaMeeting[20482:70b] [CDVTimer][keyboard] 1.235962ms
+2014-07-24 17:13:52.487 ubaMeeting[20482:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-24 17:13:52.488 ubaMeeting[20482:70b] [CDVTimer][statusbar] 0.840008ms
+2014-07-24 17:13:52.489 ubaMeeting[20482:70b] [CDVTimer][TotalPluginStartup] 3.733039ms
+2014-07-24 17:13:53.400 ubaMeeting[20482:70b] Resetting plugins due to page load.
+2014-07-24 17:13:54.220 ubaMeeting[20482:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/32BAE04C-10A5-4F70-882E-A169723C7F94/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-25 16:05:24.494 ubaMeeting[22939:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-25 16:05:24.607 ubaMeeting[22939:70b] Unlimited access to network resources
+2014-07-25 16:05:26.063 ubaMeeting[22939:70b] [CDVTimer][keyboard] 0.123978ms
+2014-07-25 16:05:26.064 ubaMeeting[22939:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-25 16:05:26.065 ubaMeeting[22939:70b] [CDVTimer][statusbar] 0.576019ms
+2014-07-25 16:05:26.065 ubaMeeting[22939:70b] [CDVTimer][TotalPluginStartup] 2.224028ms
+2014-07-25 16:05:26.894 ubaMeeting[22939:70b] Resetting plugins due to page load.
+2014-07-25 16:05:27.424 ubaMeeting[22939:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DC58B493-5B78-4A1C-849F-DAB88724CBEB/ubaMeeting.app/www/index.html#/app/playlists
+2014-07-28 17:00:21.432 ubaMeeting[27673:70b] Multi-tasking -> Device: YES, App: YES
+2014-07-28 17:00:22.044 ubaMeeting[27673:70b] Unlimited access to network resources
+2014-07-28 17:00:25.974 ubaMeeting[27673:70b] [CDVTimer][keyboard] 17.437994ms
+2014-07-28 17:00:25.975 ubaMeeting[27673:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-07-28 17:00:25.976 ubaMeeting[27673:70b] [CDVTimer][statusbar] 0.798047ms
+2014-07-28 17:00:25.977 ubaMeeting[27673:70b] [CDVTimer][TotalPluginStartup] 20.277977ms
+2014-07-28 17:00:27.521 ubaMeeting[27673:70b] Resetting plugins due to page load.
+2014-07-28 17:00:29.703 ubaMeeting[27673:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DC58B493-5B78-4A1C-849F-DAB88724CBEB/ubaMeeting.app/www/index.html#/tab/playlists
+2014-08-01 16:45:47.182 ubaMeeting[34423:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-01 16:45:47.366 ubaMeeting[34423:70b] Unlimited access to network resources
+2014-08-01 16:45:49.515 ubaMeeting[34423:70b] [CDVTimer][keyboard] 8.873999ms
+2014-08-01 16:45:49.516 ubaMeeting[34423:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-01 16:45:49.516 ubaMeeting[34423:70b] [CDVTimer][statusbar] 0.640035ms
+2014-08-01 16:45:49.517 ubaMeeting[34423:70b] [CDVTimer][TotalPluginStartup] 10.674000ms
+2014-08-01 16:45:50.153 ubaMeeting[34423:70b] Resetting plugins due to page load.
+2014-08-01 16:45:51.375 ubaMeeting[34423:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DC58B493-5B78-4A1C-849F-DAB88724CBEB/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 15:15:59.730 ubaMeeting[56823:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 15:15:59.868 ubaMeeting[56823:70b] Unlimited access to network resources
+2014-08-13 15:16:05.209 ubaMeeting[56823:70b] [CDVTimer][keyboard] 27.413011ms
+2014-08-13 15:16:05.210 ubaMeeting[56823:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 15:16:05.210 ubaMeeting[56823:70b] [CDVTimer][statusbar] 0.428021ms
+2014-08-13 15:16:05.211 ubaMeeting[56823:70b] [CDVTimer][TotalPluginStartup] 28.833985ms
+2014-08-13 15:16:08.042 ubaMeeting[56823:70b] Resetting plugins due to page load.
+2014-08-13 15:16:17.581 ubaMeeting[56823:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DC58B493-5B78-4A1C-849F-DAB88724CBEB/ubaMeeting.app/www/index.html#/map
+2014-08-13 15:17:58.357 ubaMeeting[57010:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 15:17:58.397 ubaMeeting[57010:70b] Unlimited access to network resources
+2014-08-13 15:17:58.435 ubaMeeting[57010:70b] [CDVTimer][keyboard] 0.070989ms
+2014-08-13 15:17:58.436 ubaMeeting[57010:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 15:17:58.436 ubaMeeting[57010:70b] [CDVTimer][statusbar] 0.487983ms
+2014-08-13 15:17:58.437 ubaMeeting[57010:70b] [CDVTimer][TotalPluginStartup] 1.565993ms
+2014-08-13 15:17:59.171 ubaMeeting[57010:70b] Resetting plugins due to page load.
+2014-08-13 15:17:59.966 ubaMeeting[57010:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DC58B493-5B78-4A1C-849F-DAB88724CBEB/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 15:28:02.351 ubaMeeting[57238:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 15:28:02.449 ubaMeeting[57238:70b] Unlimited access to network resources
+2014-08-13 15:28:02.493 ubaMeeting[57238:70b] [CDVTimer][keyboard] 0.074983ms
+2014-08-13 15:28:02.494 ubaMeeting[57238:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 15:28:02.494 ubaMeeting[57238:70b] [CDVTimer][statusbar] 0.437021ms
+2014-08-13 15:28:02.494 ubaMeeting[57238:70b] [CDVTimer][TotalPluginStartup] 1.632988ms
+2014-08-13 15:28:02.665 ubaMeeting[57238:70b] Resetting plugins due to page load.
+2014-08-13 15:28:03.215 ubaMeeting[57238:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DC58B493-5B78-4A1C-849F-DAB88724CBEB/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 16:24:32.279 ubaMeeting[59165:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 16:24:32.893 ubaMeeting[59165:70b] Unlimited access to network resources
+2014-08-13 16:24:34.265 ubaMeeting[59165:70b] [CDVTimer][keyboard] 16.556978ms
+2014-08-13 16:24:34.266 ubaMeeting[59165:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 16:24:34.267 ubaMeeting[59165:70b] [CDVTimer][statusbar] 0.974953ms
+2014-08-13 16:24:34.268 ubaMeeting[59165:70b] [CDVTimer][TotalPluginStartup] 19.164979ms
+2014-08-13 16:24:35.178 ubaMeeting[59165:70b] Resetting plugins due to page load.
+2014-08-13 16:24:36.241 ubaMeeting[59165:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DC58B493-5B78-4A1C-849F-DAB88724CBEB/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 16:36:46.212 ubaMeeting[59353:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 16:36:46.248 ubaMeeting[59353:70b] Unlimited access to network resources
+2014-08-13 16:36:46.277 ubaMeeting[59353:70b] [CDVTimer][keyboard] 0.063002ms
+2014-08-13 16:36:46.278 ubaMeeting[59353:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 16:36:46.278 ubaMeeting[59353:70b] [CDVTimer][statusbar] 0.414968ms
+2014-08-13 16:36:46.279 ubaMeeting[59353:70b] [CDVTimer][TotalPluginStartup] 1.470029ms
+2014-08-13 16:36:47.013 ubaMeeting[59353:70b] Resetting plugins due to page load.
+2014-08-13 16:36:47.466 ubaMeeting[59353:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/DC58B493-5B78-4A1C-849F-DAB88724CBEB/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 16:40:30.321 ubaMeeting[59565:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 16:40:30.423 ubaMeeting[59565:70b] Unlimited access to network resources
+2014-08-13 16:40:30.480 ubaMeeting[59565:70b] [CDVTimer][keyboard] 20.861030ms
+2014-08-13 16:40:30.481 ubaMeeting[59565:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 16:40:30.481 ubaMeeting[59565:70b] [CDVTimer][statusbar] 0.729978ms
+2014-08-13 16:40:30.482 ubaMeeting[59565:70b] [CDVTimer][TotalPluginStartup] 23.370028ms
+2014-08-13 16:40:32.137 ubaMeeting[59565:70b] Resetting plugins due to page load.
+2014-08-13 16:40:32.740 ubaMeeting[59565:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A40CC52-E888-4745-A131-B17566F9D2F4/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 16:40:32.782 ubaMeeting[59565:70b] THREAD WARNING: ['Device'] took '12.444092' ms. Plugin should use a background thread.
+2014-08-13 16:52:11.352 ubaMeeting[59750:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 16:52:11.376 ubaMeeting[59750:70b] Unlimited access to network resources
+2014-08-13 16:52:11.417 ubaMeeting[59750:70b] [CDVTimer][keyboard] 0.073016ms
+2014-08-13 16:52:11.417 ubaMeeting[59750:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 16:52:11.418 ubaMeeting[59750:70b] [CDVTimer][statusbar] 0.464022ms
+2014-08-13 16:52:11.418 ubaMeeting[59750:70b] [CDVTimer][TotalPluginStartup] 1.538992ms
+2014-08-13 16:52:12.556 ubaMeeting[59750:70b] Resetting plugins due to page load.
+2014-08-13 16:52:12.975 ubaMeeting[59750:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/7A40CC52-E888-4745-A131-B17566F9D2F4/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 16:53:26.710 ubaMeeting[59959:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 16:53:26.750 ubaMeeting[59959:70b] Unlimited access to network resources
+2014-08-13 16:53:26.766 ubaMeeting[59959:70b] [CDVTimer][keyboard] 0.061989ms
+2014-08-13 16:53:26.766 ubaMeeting[59959:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 16:53:26.767 ubaMeeting[59959:70b] [CDVTimer][statusbar] 0.395000ms
+2014-08-13 16:53:26.767 ubaMeeting[59959:70b] [CDVTimer][TotalPluginStartup] 1.359046ms
+2014-08-13 16:53:27.276 ubaMeeting[59959:70b] Resetting plugins due to page load.
+2014-08-13 16:53:27.661 ubaMeeting[59959:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EF6556D4-1B73-4FCD-8392-D35C527CE4C3/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 17:03:33.976 ubaMeeting[60178:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 17:03:34.058 ubaMeeting[60178:70b] Unlimited access to network resources
+2014-08-13 17:03:34.127 ubaMeeting[60178:70b] [CDVTimer][keyboard] 0.072002ms
+2014-08-13 17:03:34.127 ubaMeeting[60178:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 17:03:34.128 ubaMeeting[60178:70b] [CDVTimer][statusbar] 0.501037ms
+2014-08-13 17:03:34.128 ubaMeeting[60178:70b] [CDVTimer][TotalPluginStartup] 1.513958ms
+2014-08-13 17:03:34.524 ubaMeeting[60178:70b] Resetting plugins due to page load.
+2014-08-13 17:03:36.237 ubaMeeting[60178:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EF6556D4-1B73-4FCD-8392-D35C527CE4C3/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 17:08:27.974 ubaMeeting[60395:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 17:08:28.045 ubaMeeting[60395:70b] Unlimited access to network resources
+2014-08-13 17:08:28.464 ubaMeeting[60395:70b] [CDVTimer][keyboard] 94.074011ms
+2014-08-13 17:08:28.465 ubaMeeting[60395:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 17:08:28.466 ubaMeeting[60395:70b] [CDVTimer][statusbar] 0.797987ms
+2014-08-13 17:08:28.467 ubaMeeting[60395:70b] [CDVTimer][TotalPluginStartup] 96.451998ms
+2014-08-13 17:08:28.987 ubaMeeting[60395:70b] Resetting plugins due to page load.
+2014-08-13 17:08:29.934 ubaMeeting[60395:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EF6556D4-1B73-4FCD-8392-D35C527CE4C3/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 17:15:10.664 ubaMeeting[60631:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 17:15:10.737 ubaMeeting[60631:70b] Unlimited access to network resources
+2014-08-13 17:15:10.913 ubaMeeting[60631:70b] [CDVTimer][keyboard] 0.097990ms
+2014-08-13 17:15:10.914 ubaMeeting[60631:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 17:15:10.914 ubaMeeting[60631:70b] [CDVTimer][statusbar] 0.680983ms
+2014-08-13 17:15:10.915 ubaMeeting[60631:70b] [CDVTimer][TotalPluginStartup] 2.223015ms
+2014-08-13 17:15:11.107 ubaMeeting[60631:70b] Resetting plugins due to page load.
+2014-08-13 17:15:11.742 ubaMeeting[60631:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/EF6556D4-1B73-4FCD-8392-D35C527CE4C3/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 17:17:53.310 ubaMeeting[60848:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 17:17:53.336 ubaMeeting[60848:70b] Unlimited access to network resources
+2014-08-13 17:17:53.353 ubaMeeting[60848:70b] [CDVTimer][keyboard] 0.061989ms
+2014-08-13 17:17:53.354 ubaMeeting[60848:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 17:17:53.354 ubaMeeting[60848:70b] [CDVTimer][statusbar] 0.388026ms
+2014-08-13 17:17:53.354 ubaMeeting[60848:70b] [CDVTimer][TotalPluginStartup] 1.363993ms
+2014-08-13 17:17:54.047 ubaMeeting[60848:70b] Resetting plugins due to page load.
+2014-08-13 17:17:54.455 ubaMeeting[60848:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 17:17:54.572 ubaMeeting[60848:70b] THREAD WARNING: ['Device'] took '38.595215' ms. Plugin should use a background thread.
+2014-08-13 17:20:29.019 ubaMeeting[61061:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 17:20:29.112 ubaMeeting[61061:70b] Unlimited access to network resources
+2014-08-13 17:20:29.184 ubaMeeting[61061:70b] [CDVTimer][keyboard] 0.086010ms
+2014-08-13 17:20:29.185 ubaMeeting[61061:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 17:20:29.185 ubaMeeting[61061:70b] [CDVTimer][statusbar] 0.448048ms
+2014-08-13 17:20:29.186 ubaMeeting[61061:70b] [CDVTimer][TotalPluginStartup] 1.577973ms
+2014-08-13 17:20:29.332 ubaMeeting[61061:70b] Resetting plugins due to page load.
+2014-08-13 17:20:29.875 ubaMeeting[61061:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-13 17:29:55.137 ubaMeeting[61289:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-13 17:29:55.210 ubaMeeting[61289:70b] Unlimited access to network resources
+2014-08-13 17:29:55.496 ubaMeeting[61289:70b] [CDVTimer][keyboard] 0.125051ms
+2014-08-13 17:29:55.496 ubaMeeting[61289:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-13 17:29:55.497 ubaMeeting[61289:70b] [CDVTimer][statusbar] 0.573993ms
+2014-08-13 17:29:55.498 ubaMeeting[61289:70b] [CDVTimer][TotalPluginStartup] 1.896977ms
+2014-08-13 17:29:55.825 ubaMeeting[61289:70b] Resetting plugins due to page load.
+2014-08-13 17:29:57.340 ubaMeeting[61289:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-14 12:43:27.950 ubaMeeting[62489:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-14 12:43:28.562 ubaMeeting[62489:70b] Unlimited access to network resources
+2014-08-14 12:43:30.159 ubaMeeting[62489:70b] [CDVTimer][keyboard] 10.358989ms
+2014-08-14 12:43:30.160 ubaMeeting[62489:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-14 12:43:30.161 ubaMeeting[62489:70b] [CDVTimer][statusbar] 0.810027ms
+2014-08-14 12:43:30.162 ubaMeeting[62489:70b] [CDVTimer][TotalPluginStartup] 12.849033ms
+2014-08-14 12:43:31.739 ubaMeeting[62489:70b] Resetting plugins due to page load.
+2014-08-14 12:43:34.005 ubaMeeting[62489:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-14 13:04:48.784 ubaMeeting[62791:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-14 13:04:48.881 ubaMeeting[62791:70b] Unlimited access to network resources
+2014-08-14 13:04:52.249 ubaMeeting[62791:70b] [CDVTimer][keyboard] 13.292015ms
+2014-08-14 13:04:52.250 ubaMeeting[62791:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-14 13:04:52.251 ubaMeeting[62791:70b] [CDVTimer][statusbar] 0.833035ms
+2014-08-14 13:04:52.251 ubaMeeting[62791:70b] [CDVTimer][TotalPluginStartup] 15.735984ms
+2014-08-14 13:04:53.075 ubaMeeting[62791:70b] Resetting plugins due to page load.
+2014-08-14 13:04:54.286 ubaMeeting[62791:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-14 13:07:05.375 ubaMeeting[63005:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-14 13:07:05.427 ubaMeeting[63005:70b] Unlimited access to network resources
+2014-08-14 13:07:05.564 ubaMeeting[63005:70b] [CDVTimer][keyboard] 16.762018ms
+2014-08-14 13:07:05.565 ubaMeeting[63005:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-14 13:07:05.566 ubaMeeting[63005:70b] [CDVTimer][statusbar] 0.815988ms
+2014-08-14 13:07:05.567 ubaMeeting[63005:70b] [CDVTimer][TotalPluginStartup] 19.257009ms
+2014-08-14 13:07:05.969 ubaMeeting[63005:70b] Resetting plugins due to page load.
+2014-08-14 13:07:06.581 ubaMeeting[63005:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-14 13:07:06.649 ubaMeeting[63005:70b] THREAD WARNING: ['Device'] took '11.239990' ms. Plugin should use a background thread.
+2014-08-14 13:08:44.671 ubaMeeting[63223:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-14 13:08:44.816 ubaMeeting[63223:70b] Unlimited access to network resources
+2014-08-14 13:08:45.891 ubaMeeting[63223:70b] [CDVTimer][keyboard] 28.523982ms
+2014-08-14 13:08:45.892 ubaMeeting[63223:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-14 13:08:45.893 ubaMeeting[63223:70b] [CDVTimer][statusbar] 0.764966ms
+2014-08-14 13:08:45.915 ubaMeeting[63223:70b] [CDVTimer][TotalPluginStartup] 51.844001ms
+2014-08-14 13:08:46.503 ubaMeeting[63223:70b] Resetting plugins due to page load.
+2014-08-14 13:08:47.401 ubaMeeting[63223:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-14 13:08:51.300 ubaMeeting[63223:70b] Resetting plugins due to page load.
+2014-08-14 13:08:51.313 ubaMeeting[63223:70b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-08-14 13:08:52.377 ubaMeeting[63223:70b] Resetting plugins due to page load.
+2014-08-14 13:08:52.380 ubaMeeting[63223:70b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-08-14 13:09:00.378 ubaMeeting[63223:70b] Resetting plugins due to page load.
+2014-08-14 13:09:00.393 ubaMeeting[63223:70b] Failed to load webpage with error: The requested URL was not found on this server.
+2014-08-14 13:10:43.076 ubaMeeting[63441:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-14 13:10:43.109 ubaMeeting[63441:70b] Unlimited access to network resources
+2014-08-14 13:10:43.207 ubaMeeting[63441:70b] [CDVTimer][keyboard] 11.393011ms
+2014-08-14 13:10:43.208 ubaMeeting[63441:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-14 13:10:43.209 ubaMeeting[63441:70b] [CDVTimer][statusbar] 0.791967ms
+2014-08-14 13:10:43.209 ubaMeeting[63441:70b] [CDVTimer][TotalPluginStartup] 13.756990ms
+2014-08-14 13:10:43.603 ubaMeeting[63441:70b] Resetting plugins due to page load.
+2014-08-14 13:10:44.220 ubaMeeting[63441:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday
+2014-08-14 13:16:22.375 ubaMeeting[63667:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-14 13:16:22.466 ubaMeeting[63667:70b] Unlimited access to network resources
+2014-08-14 13:16:22.528 ubaMeeting[63667:70b] [CDVTimer][keyboard] 0.070035ms
+2014-08-14 13:16:22.528 ubaMeeting[63667:70b] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2014-08-14 13:16:22.529 ubaMeeting[63667:70b] [CDVTimer][statusbar] 0.456035ms
+2014-08-14 13:16:22.529 ubaMeeting[63667:70b] [CDVTimer][TotalPluginStartup] 1.525998ms
+2014-08-14 13:16:22.686 ubaMeeting[63667:70b] Resetting plugins due to page load.
+2014-08-14 13:16:23.259 ubaMeeting[63667:70b] Finished load of: file:///Users/bbeswick/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B0A1AD17-9771-4C10-AFB9-FCFF29E4E7A9/ubaMeeting.app/www/index.html#/tab/sunday

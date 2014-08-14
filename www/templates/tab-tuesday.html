@@ -1,0 +1,16 @@
+<ion-view title="Tuesday">
+
+	<ion-nav-buttons side="left">
+    	<button class="button button-icon button-clear ion-navicon" style="color:#fff;" ng-click="showMenu()">
+        </button>
+    </ion-nav-buttons>
+    
+	<ion-content>
+		<ion-list>
+      		<ion-item ng-repeat="session in sessions" href="#/tab/tuesday-detail/{{session.name}}">
+				{{session.name}}
+      		</ion-item>
+    	</ion-list>
+	</ion-content>
+	
+</ion-view>
